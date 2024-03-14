@@ -1,1 +1,2 @@
-# IF1210-Praktikum-Daspro
+# Praktikum IF1210 Dasar Pemrograman
+Repo ini berisi file praktikum mata kuliah IF1210 Dasar Pemrograman tahun 2022. Pada repo ini, terdapat seluruh file praktikum dari praktikum awal hingga praktikum terakhir, yang meliputi jawaban benar praktikum. Praktikum Dasar Pemrograman ini menggunakan dua bahasa pemrograman, yaitu Haskell dan Python. Bahasa pemrograman Haskell digunakan pada Praktikum 0 sampai dengan Praktikum 2, sementara bahasa pemrograman Python digunakan selanjutnya dari Praktikum 3 sampai Praktikum 6.
